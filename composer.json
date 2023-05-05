@@ -1,4 +1,6 @@
 {
+    "name": "Joao-Peregrina/buscador-cursos",
+
     "require": {
         "symfony/css-selector": "^6.2",
         "guzzlehttp/guzzle": "^7.5",
