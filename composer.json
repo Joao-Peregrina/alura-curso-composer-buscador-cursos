@@ -1,5 +1,5 @@
 {
-    "name": "Joao-Peregrina/buscador-cursos",
+    "name": "joao-peregrina/alura-curso-composer-buscador-cursos",
 
     "require": {
         "symfony/css-selector": "^6.2",
